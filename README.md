@@ -68,7 +68,7 @@ Temperature: 12 °C 🌤️
 Condition: clear sky ☀️
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-![Weather Checker]()
+![Weather Checker](exWeather.png)
 
 
   
